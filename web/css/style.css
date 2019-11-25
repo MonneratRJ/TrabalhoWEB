@@ -1,0 +1,19 @@
+.navbar {
+    background-color: #f84343 !important;
+}
+
+section {
+    display: none;
+}
+
+.red {
+    color: red !important;
+}
+
+.oi-wrench, .oi-x {
+    cursor: pointer;
+}
+
+#editaAluno {
+    display: none;
+}

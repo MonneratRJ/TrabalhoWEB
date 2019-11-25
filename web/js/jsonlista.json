@@ -1,0 +1,21 @@
+[
+    {
+        "id": "1",
+        "nome": "Marcelo Monnerat",
+        "email": "m.monnerat@terra.com.br",
+        "dataNasc":"04/11/1983",
+        "CPF":"103.123.997-90"
+    }, {
+        "id": "2",
+        "nome": "Camila Delaroli",
+        "email": "c.delaroli@terra.com.br",
+        "dataNasc":"01/01/1991",
+        "CPF":"123.456.789-10"
+    }, {
+        "id": "3",
+        "nome": "Gabriel Nunes",
+        "email": "g.nunes@terra.com.br",
+        "dataNasc":"02/02/1990",
+        "CPF":"987.654.321-00"
+    }
+]
